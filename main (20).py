@@ -1,25 +1,8 @@
-
-n = int(input())
-while n > 0: 
-    print(n % 10); n //= 10
-import math
-
-i=int(input())
-
-a=[int(a) for a in str(i)]
-
-if a[0]+a[1]==a[2]+a[3]:
-
-   print('сумма двух первых цифр РАВНА сумме двух последних цифр')
-
+× = int (input( "Введите ×")) 
+a= int (input( "Введите а") 
+b= int(input ( "Введите b")) 
+c= int (input("Введите с"))
+if x< (3,14/4)
+print (c/b)
 else:
-
-   print('сумма двух первых цифр НЕ РАВНА сумме двух последних цифр')
-
-if sum(a)%3==0:
-
-   print('сумма цифр кратна 3')
-
-else:
-
-   print('сумма цифр НЕ кратна 3')
+print(a/b)
